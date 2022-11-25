@@ -1,2 +1,2 @@
 # Bikeshare_Project
-An interactive analysis of the US Bikeshare data using python.
+An exploration of US Bikeshare data data across 3 cities (Chicago,New York and Washington) using python.
